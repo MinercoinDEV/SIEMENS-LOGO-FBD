@@ -5,9 +5,9 @@ The repository features programs for:
 
 Automatic Garage Doors: This program provides an automated solution for opening and closing garage doors, using sensors and timers to ensure safe and efficient operation.
 
-Robotic Arm Control: This section includes FBDs for controlling robotic arms, which can be used in various industrial applications. It demonstrates how to program movements, manage payloads, and ensure safety during operation.
+Robotic Arm Control: This program includes a simple FBD for controlling robotic arms, which can be used in various industrial applications. 
 
-Hallway Light Control: This program offers an energy-efficient solution for managing hallway lights, using sensors and timers to control lighting based on occupancy and time of day.
+Hallway Light Control: This program offers an energy-efficient solution for managing hallway lights, using sensors and timers to control lighting .
 
 Traffic Light Control: This section provides a program for managing traffic lights, demonstrating how to sequence lights and manage pedestrian crossings.
 
